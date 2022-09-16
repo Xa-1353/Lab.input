@@ -39,7 +39,7 @@ public class Input {
         float fTwo = keyboard.nextFloat();
 
         //short
-        System.out.print("Short one );
+        System.out.print("Short one ");
         short sOne = keyboard.nextShort();
         System.out.print("Short two");
         short sTwo = keyboard.nextShort();
